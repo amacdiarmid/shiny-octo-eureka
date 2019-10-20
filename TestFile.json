@@ -1,3 +1,15 @@
 {
-  "exampleString": "1234" 
+	"exampleString": "1234",
+	"exampleInt": 20,
+	"exampleArray": [
+		"1",
+		"2",
+		"3"
+	],
+	"exampleSet": {
+		"R": 1,
+		"G": 0,
+		"B": 0.5,
+		"A": 1
+	}
 }
