@@ -1,0 +1,11 @@
+{
+  "Type": "DemoObject",
+  "ObjectName": "1",
+  "ObjectShape": "Cube",
+  "ObjectTexture": "Blank",
+  "ObjectColour": {
+    "R": 10,
+    "G": 225,
+    "B": 100
+  }
+}
