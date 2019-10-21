@@ -1,0 +1,11 @@
+{
+  "Type": "DemoObject",
+  "ObjectName": "3",
+  "ObjectShape": "Cone",
+  "ObjectTexture": "Blank",
+  "ObjectColour": {
+    "R": 150,
+    "G": 25,
+    "B": 225
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Type": "Manifest",
+  "ObjectArray": [
+    "Object1.json",
+    "Object2.json",
+    "Object3.json",
+    "Object4.json"
+  ]
+}

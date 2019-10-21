@@ -1,11 +1,11 @@
 {
   "Type": "DemoObject",
-  "ObjectName": "1",
-  "ObjectShape": "Cube",
+  "ObjectName": "2",
+  "ObjectShape": "Circle",
   "ObjectTexture": "Blank",
   "ObjectColour": {
-    "R": 225,
-    "G": 0,
+    "R": 100,
+    "G": 100,
     "B": 100
   }
 }
